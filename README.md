@@ -5,7 +5,7 @@ Home: https://randy3k.github.io/collections
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Provides high performance container data types such as Queue, Stack, Deque, Dict and OrderedDict. Benchmarks <https://randy3k.github.io/collections/articles/benchmark.html> have shown that these containers are asymptotically more efficient than those offered by other packages.
 
