@@ -1,4 +1,4 @@
-{% set version = "0.3.10" %}
+{% set version = "0.3.11" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/collections_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/collections/collections_{{ version }}.tar.gz
-  sha256: f6a00769060990f13308e709b1d099ddcbdfabbb77fded4a9f704a775135ef2e
+  sha256: 7ef40db7dbb161b3345289699b1e1d0b9a2cb0abd4f8e46a9bd1b3b890bc7584
 
 build:
   number: 0
